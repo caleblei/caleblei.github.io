@@ -6,7 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # 2020
 ##2020-06-09   [浅谈数据安全](https://guides.github.com/features/mastering-markdown/)
-##2020-06-05   [CNCounter](http://www.baidu.com)
+
+2020-06-05   [CNCounter](http://www.baidu.com)
 
 **Bold** and _Italic_ and `Code` text
 
